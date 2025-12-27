@@ -1,0 +1,8 @@
+{
+  "name": "Teacher Yen STEM Platform",
+  "description": "A comprehensive STEM education platform for K-12 students featuring interactive lessons, course catalogs, and educational blogs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
